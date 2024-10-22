@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="view_data"><u>View Data</u></string>
+</resources>
